@@ -49,4 +49,4 @@ Fat Content Analysis	Compares Low Fat vs Regular itemand card-style visuals
 
 6. Dashboard Screenshot
 
-[Zepto Grocery Data Analysis ]:-https://github.com/solkartauhid/Zepto-Grocery-Data-Analysis-/blob/main/Zepto%20Grocery%20Data%20Analysis%20%20Dashboard%20Screenshort.jpg
+[Zepto Grocery Data Analysis ]:https://github.com/solkartauhid/Zepto-Grocery-Data-Analysis-/blob/main/Zepto%20Grocery%20Data%20Analysis%20%20Dashboard%20Screenshort.jpg
